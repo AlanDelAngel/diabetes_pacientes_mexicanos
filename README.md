@@ -2,12 +2,6 @@
 
 **Modelo de machine learning para decidir a qué pacientes conviene hacerles primero una prueba confirmatoria de diabetes, sin usar glucosa ni HbA1c.**
 
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.8-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-3.0-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-0.51-8A2BE2?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
 ## El problema
 
 En México, las pruebas que confirman la diabetes (glucosa en ayuno o HbA1c) son un recurso limitado en muchos programas de salud. Este proyecto construye un modelo que **ordena a los pacientes adultos por su probabilidad de tener riesgo alto**, usando datos que muchas veces ya están disponibles: edad, sexo, peso, estatura y un perfil bioquímico (lípidos, insulina, ácido úrico, creatinina, albúmina).
