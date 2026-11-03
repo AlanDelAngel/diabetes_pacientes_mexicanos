@@ -1,0 +1,9 @@
+# Versiones con las que se ejecuto el notebook (Python 3.11)
+numpy==2.4.4
+pandas==3.0.2
+scikit-learn==1.8.0
+shap==0.51.0
+joblib==1.5.3
+matplotlib
+seaborn
+jupyter
